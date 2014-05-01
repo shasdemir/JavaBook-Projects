@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DVD Collection.iml" filepath="$PROJECT_DIR$/DVD Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MAL Comparable/MAL Comparable.iml" filepath="$PROJECT_DIR$/MAL Comparable/MAL Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoviesArrayList/MoviesArrayList.iml" filepath="$PROJECT_DIR$/MoviesArrayList/MoviesArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/initial/initial.iml" filepath="$PROJECT_DIR$/initial/initial.iml" />
+    </modules>
+  </component>
+</project>
+

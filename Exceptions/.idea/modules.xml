@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Custom Exceptions/Custom Exceptions.iml" filepath="$PROJECT_DIR$/Custom Exceptions/Custom Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Propagation/Exception Propagation.iml" filepath="$PROJECT_DIR$/Exception Propagation/Exception Propagation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Product Codes/Product Codes.iml" filepath="$PROJECT_DIR$/Product Codes/Product Codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The Uncaught/The Uncaught.iml" filepath="$PROJECT_DIR$/The Uncaught/The Uncaught.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Writers/Writers.iml" filepath="$PROJECT_DIR$/Writers/Writers.iml" />
+    </modules>
+  </component>
+</project>
+
